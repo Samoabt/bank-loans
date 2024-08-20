@@ -23,4 +23,6 @@ public class LoanType {
 
     @OneToMany(mappedBy = "loanType", cascade = CascadeType.ALL, orphanRemoval = true)
     List<ProcedureStep> procedureSteps;
+
+
 }

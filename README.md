@@ -89,4 +89,4 @@ Bank employees should be able to search information about loan requests. This in
 
 ## Info
 If you have any questions feel free to contact us by sending an email to `nevena.brajovic@fioneer.com` and `vidoje.zeljic@fioneer.com`. <br/>
-_Send questions to both Nevena and Vidoje to get a quicker response._
+_Send questions to both Nevena and Vidoje to get a quicker response._"# bank-loans" 

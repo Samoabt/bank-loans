@@ -37,6 +37,7 @@ public class LoanTypeController {
         return ResponseEntity.ok(updatedLoanType);
     }
 
+
     @GetMapping("/search/{name}")
     public ResponseEntity<LoanTypeDTO> getLoanTypeByName(@PathVariable String name) {
         return ResponseEntity.ok(loanTypeService.getLoanTypeByName(name));
